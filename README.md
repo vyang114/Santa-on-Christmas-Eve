@@ -1,3 +1,3 @@
 # Santa-on-Chrsitmas-Eve
 
-2016 Fall.
+Java multimedia application.
